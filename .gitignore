@@ -1,2 +1,6 @@
 .env
-data-postgres/
+api.http
+data-postgres
+data-pgadmin
+data-app
+certs/server.key
